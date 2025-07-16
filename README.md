@@ -15,9 +15,9 @@ Used optimization model in Python to find the prices
 
 ## 📁 Repository Structure
 ```
-├── Mobile_Price_Classification.ipynb # Main notebook with code
-├── train.csv # Training dataset
-├── test.csv (optional) # Test dataset for deployment
+├── Model.ipynb # Main notebook with code
+├── Presentation_TeamAdelaide.pptx # Presentation explaining the project
+├── ProjectReport_TeamAdelaide.docx # Project Report
 ├── README.md # Project summary and usage guide
 ```
 ---
