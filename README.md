@@ -14,10 +14,13 @@ Used optimization model in Python to find the prices
 ---
 
 ## 📁 Repository Structure
-.
+
+---
+
 ├── Mobile_Price_Classification.ipynb # Main notebook with code
 ├── train.csv # Training dataset
 ├── test.csv (optional) # Test dataset for deployment
 ├── README.md # Project summary and usage guide
 
+---
 ---
