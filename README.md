@@ -20,4 +20,3 @@ Used optimization model in Python to find the prices
 ├── train.csv                           # Training dataset
 ├── test.csv                            # Test dataset
 ---
----
