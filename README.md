@@ -13,7 +13,7 @@ Used optimization model in Python to find the prices
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 ```
 ├── Model.ipynb # Main notebook with code
 ├── Presentation_TeamAdelaide.pptx # Presentation explaining the project
